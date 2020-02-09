@@ -2,7 +2,7 @@
 title: "Sprint 1 Demo Day Presentation"
 author: "Team Woo (two)"
 date: 2020-02-10
-output: powerpoint_presentation
+output: html_document
 ---
 
 # Sprint Tasks
